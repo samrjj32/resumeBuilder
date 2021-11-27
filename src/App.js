@@ -17,7 +17,11 @@ function App() {
         >
           Learn React
         </a>
+        <button type="button" class="btn btn-primary">Primary bootstrap</button>
+      <button type="button" class="btn btn-dark">non</button>
+
       </header>
+     
     </div>
   );
 }
